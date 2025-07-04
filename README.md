@@ -27,7 +27,7 @@ _Coming soon..._
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone https://github.com/tanushrigoel/MessageHub.git
+git clone https://github.com/PrinceKeshri966/MessageHub.git
 cd MessageHub
 ```
 
@@ -53,7 +53,7 @@ This project is licensed under the **MIT License**.
 📬 **Have feedback?** Open an issue or reach out!  
 🌟 **Like the project?** Give it a star on GitHub!  
 
-🔗 [GitHub Repository](https://github.com/tanushrigoel/MessageHub)
+🔗 [GitHub Repository](https://github.com/PrinceKeshri966/MessageHub)
 ```
 
 This README is **clear, professional, and visually appealing**. Let me know if you need any modifications! 🚀
